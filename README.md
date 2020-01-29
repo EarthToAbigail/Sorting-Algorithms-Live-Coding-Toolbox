@@ -1,4 +1,4 @@
-# Sorting-Algorithms-Live-Coding-Toolbox
+# Sorting Algorithms : Live Coding Sonic Pi Toolbox
 A library of functions based on 4 different sorting algorithms with customized parameters for using them in performance.
 
 ## Documentation
